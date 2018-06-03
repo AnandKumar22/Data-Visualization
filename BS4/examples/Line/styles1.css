@@ -1,0 +1,23 @@
+.options1 {
+    padding: 20px;
+    background-color: rgba(191, 191, 191, 0.15);
+    margin-top: 20px;
+}
+
+.option1 {
+    margin-top: 10px;
+}
+
+.caption1 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.option1 > span {
+    margin-right: 10px;
+}
+
+.option1 > .dx-widget {
+    display: inline-block;
+    vertical-align: middle;
+}
